@@ -35,7 +35,7 @@ The easiest way to install this functionality is by using the browser extension.
 #### Steps to Install:
 1. **Clone this repository:**
 ```base
-git clone https://github.com/psparwez/open-in-vsode.git
+git clone https://github.com/codewithvilxd/open-in-vsode.git
 ```
 
 
@@ -94,7 +94,7 @@ Please follow the style and formatting of the existing code. If you're adding a 
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/psparwez/open-in-vsode/tree/main?tab=MIT-1-ov-file) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/codewithevilxd/open-in-vsode/tree/main?tab=MIT-1-ov-file) file for details.
 
 ---
 
